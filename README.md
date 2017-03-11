@@ -2,7 +2,7 @@
 
 [logo]: /Medias/6299.jpg "Logo Title Text 2"
 # STM32F4_Blinky_RTEcfg
-STM32F4 Blinky project with Run Time Environment 
+STM32F4 Blinky project with Keil Run Time Environment Configuratoins 
 # Getting Started
 1. Hardware:
   1. STM32F407VET6
