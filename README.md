@@ -1,7 +1,7 @@
 ![alt text][logo]
 
 [logo]: /Medias/6299.jpg "Logo Title Text 2"
-# STM32_GPIO_RTEcfg
+# STM32F4_Blinky_RTEcfg
 STM32F4 Blinky project with Run Time Environment 
 # Getting Started
 1. Hardware:
